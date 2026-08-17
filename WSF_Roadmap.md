@@ -28,9 +28,17 @@ Features that would be added to Where Soldiers Fall, although everything can get
 
 ## Nations
 - [X] Marley Empire
+  - [X] Flag
+  - [X] Victory Theme
 - [X] Kingdom of Eldia
+  - [X] Flag
+  - [X] Victory Theme
 - [ ] Mid Eastern Allied Forces
+  - [ ] Flag
+  - [ ] Victory Theme
 - [ ] Hizuru Shogunate
+  - [ ] Flag
+  - [ ] Victory Theme
 
 ## Main Menu
 - [ ] Finish Settings
