@@ -32,6 +32,12 @@ Features that would be added to Where Soldiers Fall, although everything can get
 - [ ] Mid Eastern Allied Forces
 - [ ] Hizuru Shogunate
 
+## Main Menu
+- [ ] Finish Settings
+  - [ ] Video
+  - [ ] Audio
+  - [ ] forgot
+
 ## Models
 - [ ] Make Unit_EldianMiltia
   - [x] Make Unit_EldianMiltia1
