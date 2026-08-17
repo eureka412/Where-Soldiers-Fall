@@ -5,16 +5,25 @@ Features that would be added to Where Soldiers Fall, although everything can get
 ## ECS Systems
 
 - [ ] Platoon Selecting
-  - [ ] Platoon Orders
+  - [X] Click Detection
+  - [ ] Multi-Select
+  - [ ] Orders
     - [ ] Move To
     - [ ] Move Look To
+    - [ ] Run/Walk
 - [ ] Platoon Movement
+  - [X] Follow Destination
   - [ ] Platoon Navmesh Agent
 - [ ] Unit Spawning
   - [ ] Size Variation
   - [ ] Speeds Variation
+  - [ ] Reading UnitTypeSO
 - [ ] Unit Movement
+  - [X] Follow Platoon
+  - [X] Idle/Walk/Run Enum Changing
+  - [ ] Look at Moving Direction
 - [ ] Unit Health
+  - [ ] Take Damage System
 - [ ] Unit Targeting
 
 ## Nations
