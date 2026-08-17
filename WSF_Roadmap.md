@@ -6,8 +6,7 @@ Features that would be added to Where Soldiers Fall, although everything can get
 
 - [ ] Platoon Selecting
 - [ ] Platoon Movement
-<br>
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• [ ] Indented task item
 - [ ] Unit Movement
 - [ ] Unit Health
 - [ ] Unit Targeting
@@ -18,9 +17,7 @@ Features that would be added to Where Soldiers Fall, although everything can get
 - [ ] Make Unit_EldianMiltia3
 - [ ] Make Unit_EldianMiltia4
 - [ ] Make Unit_EldianMiltia5
-<br>
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• [ ] Indented task item
 - [ ] Make Unit_MarleyanInfantry
-<br>
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• [ ] Indented task item
 - [ ] Remake ZA-848
