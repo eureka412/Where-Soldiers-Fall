@@ -54,6 +54,7 @@ Features that would be added to Where Soldiers Fall, although everything can get
   - [ ] Make Unit_EldianMiltia3
   - [ ] Make Unit_EldianMiltia4
   - [ ] Make Unit_EldianMiltia5
+- [X] Make Unit_EldianVolunteer
 - [ ] Make Unit_MarleyanInfantry
 - [ ] Remake ZA-848
 
