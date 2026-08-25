@@ -11,6 +11,7 @@ Features that would be added to Where Soldiers Fall, although everything can get
     - [ ] Move To
     - [ ] Move Look To
     - [ ] Run/Walk
+    - [X] Change Formation
 - [ ] Platoon Movement
   - [X] Follow Destination
   - [ ] Platoon Navmesh Agent
@@ -60,7 +61,7 @@ Features that would be added to Where Soldiers Fall, although everything can get
 - [ ] Make Forest map
 
 ## Ballistium
-- [ ] Make able to communicate with ECS Units
+- [ ] Convert to ECS
 
 ## VFX
 - [X] Make VFX_ArtilleryImpact
