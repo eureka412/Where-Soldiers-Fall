@@ -66,6 +66,7 @@ Features that would be added to Where Soldiers Fall, although everything can get
 ## VFX
 - [X] Make VFX_ArtilleryImpact
 - [X] Make VFX_MuzzleFlash
+- [ ] Make VFX_UnitBulletHit
 - [ ] Make VFX_BulletImpact
 - [ ] Make VFX_ATBulletImpact
 
