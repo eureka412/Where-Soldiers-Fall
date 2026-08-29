@@ -18,17 +18,21 @@ Features that would be added to Where Soldiers Fall, although everything can get
 - [ ] Unit Spawning
   - [X] Height Variation
   - [ ] Speeds Variation
-  - [ ] Supporting ScriptableObjects
-- [ ] Unit Movement
+  - [X] Supporting ScriptableObjects
+- [X] Unit Movement
   - [X] Follow Platoon
   - [X] Idle/Walk/Run Enum Changing
   - [X] Look at Moving Direction
-  - [ ] Raycast Ground Alignment
+  - [X] Raycast Ground Alignment
 - [ ] Unit Health
   - [ ] Take Damage System
 - [ ] Unit Targeting
   - [ ] Spatial Grids
   - [ ] Raycasting
+- [ ] Unit Animations
+  - [ ] Idle
+  - [ ] Walk
+  - [ ] Run
 
 ## Nations
 - [X] Marley Empire
