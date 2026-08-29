@@ -2,13 +2,13 @@
 
 Features that would be added to Where Soldiers Fall, although everything can get changed or removed
 
-## ECS Systems
+## ECS Platoon/Units Systems
 
 - [ ] Platoon Selecting
   - [X] Click Detection
   - [ ] Multi-Select
   - [ ] Orders
-    - [ ] Move To
+    - [X] Move To
     - [ ] Move Look To
     - [ ] Run/Walk
     - [X] Change Formation
@@ -16,16 +16,18 @@ Features that would be added to Where Soldiers Fall, although everything can get
   - [X] Follow Destination
   - [ ] Platoon Navmesh Agent
 - [ ] Unit Spawning
-  - [ ] Size Variation
+  - [X] Height Variation
   - [ ] Speeds Variation
-  - [ ] Reading UnitTypeSO
-- [ ] Unit Movement
+  - [ ] Supporting ScriptableObjects
+- [X] Unit Movement
   - [X] Follow Platoon
   - [X] Idle/Walk/Run Enum Changing
-  - [ ] Look at Moving Direction
+  - [X] Look at Moving Direction
 - [ ] Unit Health
   - [ ] Take Damage System
 - [ ] Unit Targeting
+  - [ ] Spatial Grids
+  - [ ] Raycasting
 
 ## Nations
 - [X] Marley Empire
@@ -42,7 +44,7 @@ Features that would be added to Where Soldiers Fall, although everything can get
   - [ ] Victory Theme
 
 ## Main Menu
-- [ ] Finish Settings
+- [ ] Settings
   - [ ] Video
   - [ ] Audio
   - [ ] forgot
@@ -56,6 +58,10 @@ Features that would be added to Where Soldiers Fall, although everything can get
   - [ ] Make Unit_EldianMiltia5
 - [X] Make Unit_EldianVolunteer
 - [ ] Make Unit_MarleyanInfantry
+- [X] Make Arsenal-P51 (marley anti titan rifle)
+  - [X] LODs
+  - [X] UVs
+  - [X] Texture
 - [ ] Remake ZA-848
 
 ## Maps
@@ -63,13 +69,23 @@ Features that would be added to Where Soldiers Fall, although everything can get
 
 ## Ballistium
 - [ ] Convert to ECS
+  - [X] Raycast Collisions
+  - [X] Projectile Movement
+  - [X] Projectile Prefab Data reading and using
+  - [ ] Impact Logic
+    - [ ] Spawning VFX
+    - [ ] Damaging Units
+    - [ ] Explosions
+    - [ ] Ricochets
 
 ## VFX
 - [X] Make VFX_ArtilleryImpact
 - [X] Make VFX_MuzzleFlash
-- [ ] Make VFX_UnitBulletHit
-- [ ] Make VFX_BulletImpact
+- [X] Make VFX_BloodBulletImpact
+- [ ] Make VFX_NormalBulletImpact
 - [ ] Make VFX_ATBulletImpact
 
 ## Units
 - [ ] Titans
+- [ ] Marleyan Anti-Titan Squad
+- [ ] Marleyan Infantry
