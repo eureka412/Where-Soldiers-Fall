@@ -19,10 +19,11 @@ Features that would be added to Where Soldiers Fall, although everything can get
   - [X] Height Variation
   - [ ] Speeds Variation
   - [ ] Supporting ScriptableObjects
-- [X] Unit Movement
+- [ ] Unit Movement
   - [X] Follow Platoon
   - [X] Idle/Walk/Run Enum Changing
   - [X] Look at Moving Direction
+  - [ ] Raycast Ground Alignment
 - [ ] Unit Health
   - [ ] Take Damage System
 - [ ] Unit Targeting
