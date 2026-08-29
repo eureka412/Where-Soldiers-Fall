@@ -63,11 +63,21 @@ Features that would be added to Where Soldiers Fall, although everything can get
   - [ ] Make Unit_EldianMiltia5
 - [X] Make Unit_EldianVolunteer
 - [ ] Make Unit_MarleyanInfantry
-- [X] Make Arsenal-P51 (marley anti titan rifle)
+- [ ] Remake ZA-848
+
+## Weapons
+- [ ] Arsenal-P47 (marley standard issued sidearm)
+  - [ ] LODs
+  - [ ] UVs
+  - [ ] Texture
+- [ ] Arsenal-P44 (marley standard issued rifle)
+  - [ ] LODs
+  - [ ] UVs
+  - [ ] Texture
+- [X] Arsenal-P51 (marley anti titan rifle)
   - [X] LODs
   - [X] UVs
   - [X] Texture
-- [ ] Remake ZA-848
 
 ## Maps
 - [ ] Make Forest map
