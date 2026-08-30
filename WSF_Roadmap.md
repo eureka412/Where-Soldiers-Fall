@@ -92,6 +92,10 @@ Features that would be added to Where Soldiers Fall, although everything can get
     - [ ] Damaging Units
     - [ ] Explosions
     - [ ] Ricochets
+       
+## Essentials
+- [ ] Make VFX Manager
+- [ ] Remaster Audio Manager
 
 ## VFX
 - [X] Make VFX_ArtilleryImpact
