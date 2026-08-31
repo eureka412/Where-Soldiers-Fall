@@ -91,7 +91,7 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
   - [X] Texture
 
 ## Maps
-- Make Forest map
+- Forest map
   - [ ] Assets
   - [ ] Navmeshes
 
@@ -107,7 +107,11 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
     - [ ] Ricochets
        
 ## Essentials
-- [ ] Make VFX Manager
+- VFX Manager
+  - [X] Storing System
+  - Playing VFX
+    - [X] Set Position
+    - [ ] Set Rotation
 - [ ] Remaster Audio Manager
 
 ## VFX
