@@ -1,10 +1,10 @@
 # WSF Roadmap
 
-Features that would be added to Where Soldiers Fall, although everything can get changed or removed
+Features that would be added to Where Soldiers Fall, everything on the list can get changed or removed
 
 ## ECS Platoon/Units Systems
 
-- [ ] Platoon Selecting
+- Platoon Selecting
   - [X] Click Detection
   - [ ] Multi-Select
   - [ ] Orders
@@ -12,81 +12,86 @@ Features that would be added to Where Soldiers Fall, although everything can get
     - [ ] Move Look To
     - [ ] Run/Walk
     - [X] Change Formation
-- [ ] Platoon Formations
+- Platoon Formations
   - [X] Column
   - [ ] Skirmish
   - [ ] Scatter
-- [ ] Platoon Movement
+- Platoon Movement
   - [X] Follow Destination
   - [ ] Platoon Navmesh Agent
-- [X] Unit Spawning
+- Unit Spawning
   - [X] Height Variation
   - [X] Supporting ScriptableObjects
-- [X] Unit Movement
+- Unit Movement
   - [X] Follow Platoon
   - [X] Idle/Walk/Run Enum Changing
   - [X] Look at Moving Direction
   - [X] Raycast Ground Alignment
-- [ ] Unit Health
+- Unit Health
   - [ ] Take Damage System
-- [ ] Unit Targeting
+- Unit Targeting
   - [ ] Spatial Grids
   - [ ] Raycasting
-- [ ] Unit Animations
+- Unit Animations
   - [ ] Idle
   - [ ] Walk
   - [ ] Run
 
 ## Nations
-- [X] Marley Empire
+- Marley Empire
   - [X] Flag
   - [X] Victory Theme
-- [X] Kingdom of Eldia
+- Kingdom of Eldia
   - [X] Flag
   - [X] Victory Theme
-- [ ] Mid Eastern Allied Forces
+- Mid Eastern Allied Forces
   - [ ] Flag
   - [ ] Victory Theme
-- [ ] Hizuru Shogunate
+- Hizuru Shogunate
   - [ ] Flag
   - [ ] Victory Theme
 
 ## Main Menu
-- [ ] Settings
+- Settings
   - [ ] Video
   - [ ] Audio
   - [ ] forgot
 
 ## Models
-- [ ] Make Unit_EldianMiltia
+- Unit_EldianMiltia
   - [x] Make Unit_EldianMiltia1
   - [ ] Make Unit_EldianMiltia2
   - [ ] Make Unit_EldianMiltia3
   - [ ] Make Unit_EldianMiltia4
   - [ ] Make Unit_EldianMiltia5
-- [X] Make Unit_EldianVolunteer
-- [ ] Make Unit_MarleyanInfantry
-- [ ] Remake ZA-848
+- Unit_EldianVolunteer
+  - [X] Make Unit_EldianVolunteer
+- Unit_MarleyanInfantry
+  - [ ] Make Unit_MarleyanInfantry
+- ZA-848
+  - [ ] Remake ZA-848
 
 ## Weapons
-- [ ] Arsenal-P47 (marley standard issued sidearm)
+- Arsenal-P47 (marley standard issued sidearm)
   - [ ] LODs
   - [ ] UVs
   - [ ] Texture
-- [ ] Arsenal-P44 (marley standard issued rifle)
+- Arsenal-P44 (marley standard issued rifle)
   - [ ] LODs
   - [ ] UVs
   - [ ] Texture
-- [X] Arsenal-P51 (marley anti titan rifle)
+- Arsenal-P51 (marley anti titan rifle)
   - [X] LODs
   - [X] UVs
   - [X] Texture
 
 ## Maps
-- [ ] Make Forest map
+- Make Forest map
+  - [ ] Assets
+  - [ ] Navmeshes
 
-## Ballistium
-- [ ] Convert to ECS
+## Ballistium ECS
+- Ballistium
   - [X] Raycast Collisions
   - [X] Projectile Movement
   - [X] Projectile Prefab Data reading and using
@@ -107,7 +112,10 @@ Features that would be added to Where Soldiers Fall, although everything can get
 - [ ] Make VFX_NormalBulletImpact
 - [ ] Make VFX_ATBulletImpact
 
-## Units
-- [ ] Titans
-- [ ] Marleyan Anti-Titan Squad
-- [ ] Marleyan Infantry
+## Platoons
+- Marleyan Anti-Titan Squad
+  - [ ] Icon
+  - [ ] Stats
+- Marleyan Infantry
+  - [ ] Icon
+  - [ ] Stats
