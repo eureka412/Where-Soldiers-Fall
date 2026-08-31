@@ -12,12 +12,15 @@ Features that would be added to Where Soldiers Fall, although everything can get
     - [ ] Move Look To
     - [ ] Run/Walk
     - [X] Change Formation
+- [ ] Platoon Formations
+  - [X] Column
+  - [ ] Skirmish
+  - [ ] Scatter
 - [ ] Platoon Movement
   - [X] Follow Destination
   - [ ] Platoon Navmesh Agent
-- [ ] Unit Spawning
+- [X] Unit Spawning
   - [X] Height Variation
-  - [ ] Speeds Variation
   - [X] Supporting ScriptableObjects
 - [X] Unit Movement
   - [X] Follow Platoon
