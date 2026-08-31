@@ -19,6 +19,9 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
 - Platoon Movement
   - [X] Follow Destination
   - [ ] Platoon Navmesh Agent
+- Platoon Other
+  - [ ] Platoon Disbanding when last unit dies
+  - [X] Handling dead units
 - Unit Spawning
   - [X] Height Variation
   - [X] Supporting ScriptableObjects
@@ -28,7 +31,9 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
   - [X] Look at Moving Direction
   - [X] Raycast Ground Alignment
 - Unit Health
-  - [ ] Take Damage System
+  - [X] Take Damage System
+    - [X] DMG Resistance
+    - [X] Damage System Logic
 - Unit Targeting
   - [ ] Spatial Grids
   - [ ] Raycasting
@@ -95,9 +100,9 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
   - [X] Raycast Collisions
   - [X] Projectile Movement
   - [X] Projectile Prefab Data reading and using
-  - [ ] Impact Logic
+  - Impact Logic
     - [ ] Spawning VFX
-    - [ ] Damaging Units
+    - [X] Damaging Units
     - [ ] Explosions
     - [ ] Ricochets
        
