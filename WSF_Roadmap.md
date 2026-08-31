@@ -7,11 +7,17 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
 - Platoon Selecting
   - [X] Click Detection
   - [ ] Multi-Select
-  - [ ] Orders
+  - Orders
     - [X] Move To
     - [ ] Move Look To
     - [ ] Run/Walk
     - [X] Change Formation
+- Platoon UI
+  - Platoon Hotbar
+    - Platoon Frame
+      - [ ] Counting Max Units/Alive Units
+      - [ ] Showing HP (alive units out of max units)
+      - [ ] Interacting
 - Platoon Formations
   - [X] Column
   - [ ] Skirmish
@@ -30,6 +36,7 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
   - [X] Idle/Walk/Run Enum Changing
   - [X] Look at Moving Direction
   - [X] Raycast Ground Alignment
+  - [ ] Play Animations
 - Unit Health
   - [X] Take Damage System
     - [X] DMG Resistance
@@ -77,18 +84,24 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
   - [ ] Remake ZA-848
 
 ## Weapons
-- Arsenal-P47 (marley standard issued sidearm)
+- Arsenal-P34 (marley old standard issued rifle, Gewehr 1888)
   - [ ] LODs
   - [ ] UVs
   - [ ] Texture
-- Arsenal-P44 (marley standard issued rifle)
+  - 1,153 Tris | ??? Tris | ??? Tris only lod1 model is done
+- Arsenal-P44 (marley standard issued rifle, Carcano M1891)
   - [ ] LODs
   - [ ] UVs
   - [ ] Texture
-- Arsenal-P51 (marley anti titan rifle)
+- Arsenal-P47 (marley standard issued sidearm, C96)
+  - [ ] LODs
+  - [ ] UVs
+  - [ ] Texture
+- Arsenal-P51 (marley anti titan rifle, PTRD-41)
   - [X] LODs
   - [X] UVs
   - [X] Texture
+  - 2,000 Tris | 1,323 Tris | 729 Tris
 
 ## Maps
 - Forest map
@@ -118,7 +131,7 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
 - [X] Make VFX_ArtilleryImpact
 - [X] Make VFX_MuzzleFlash
 - [X] Make VFX_BloodBulletImpact
-- [ ] Make VFX_NormalBulletImpact
+- [ ] Make VFX_BulletImpact
 - [ ] Make VFX_ATBulletImpact
 
 ## Platoons
