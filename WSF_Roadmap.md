@@ -15,7 +15,7 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
 - Platoon Formations
   - [X] Column
   - [ ] Skirmish
-  - [ ] Scatter
+  - [X] Scatter
 - Platoon Movement
   - [X] Follow Destination
   - [ ] Platoon Navmesh Agent
