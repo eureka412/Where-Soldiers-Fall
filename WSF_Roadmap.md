@@ -6,7 +6,7 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
 
 - Platoon Selecting
   - [X] Click Detection
-  - [ ] Multi-Select
+  - [X] Multi-Select
   - Orders
     - [X] Move To
     - [ ] Move Look To
@@ -26,7 +26,7 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
   - [X] Follow Destination
   - [ ] Platoon Navmesh Agent
 - Platoon Other
-  - [ ] Platoon Disbanding when last unit dies
+  - [X] Platoon Disbanding when last unit dies
   - [X] Handling dead units
 - Unit Spawning
   - [X] Height Variation
@@ -36,7 +36,7 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
   - [X] Idle/Walk/Run Enum Changing
   - [X] Look at Moving Direction
   - [X] Raycast Ground Alignment
-  - [ ] Play Animations
+  - [ ] Play Animations (stalled)
 - Unit Health
   - [X] Take Damage System
     - [X] DMG Resistance
@@ -44,7 +44,7 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
 - Unit Targeting
   - [ ] Spatial Grids
   - [ ] Raycasting
-- Unit Animations
+- Unit Animations (stalled)
   - [ ] Idle
   - [ ] Walk
   - [ ] Run
@@ -81,7 +81,11 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
 - Unit_MarleyanInfantry
   - [ ] Make Unit_MarleyanInfantry
 - ZA-848
-  - [ ] Remake ZA-848
+  - Remake ZA-848
+    - [ ] LODs
+    - [ ] UVs
+    - [ ] Texture
+    - ??? Tris | ??? Tris | ??? Tris
 
 ## Weapons
 - Arsenal-P34 (marley old standard issued rifle, Gewehr 1888)
@@ -122,10 +126,16 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
 ## Essentials
 - VFX Manager
   - [X] Storing System
+  - [ ] ECS-GameObject Bridging
   - Playing VFX
     - [X] Set Position
     - [ ] Set Rotation
-- [ ] Remaster Audio Manager
+- Audio Manager 2.0
+  - [ ] Pooling
+  - [ ] Params Playing
+  - [ ] Timescale affecting
+  - [ ] ECS-GameObject Bridging
+  - (possibly Burst compatible)
 
 ## VFX
 - [X] Make VFX_ArtilleryImpact
