@@ -22,12 +22,15 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
   - [X] Column
   - [ ] Skirmish
   - [X] Scatter
+  - [X] Random offsets every re-formation
 - Platoon Movement
   - [X] Follow Destination
   - [ ] Platoon Navmesh Agent
 - Platoon Other
   - [X] Platoon Disbanding when last unit dies
   - [X] Handling dead units
+  - [ ] Calculating Platoon Width for Multi-Select stuff
+  - [ ] Supporting ScriptableObjects
 - Unit Spawning
   - [X] Height Variation
   - [X] Supporting ScriptableObjects
@@ -88,24 +91,26 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
     - ??? Tris | ??? Tris | ??? Tris
 
 ## Weapons
-- Arsenal-P34 (marley old standard issued rifle, Gewehr 1888)
-  - [ ] LODs
-  - [ ] UVs
-  - [ ] Texture
-  - 1,153 Tris | ??? Tris | ??? Tris only lod1 model is done
-- Arsenal-P44 (marley standard issued rifle, Carcano M1891)
-  - [ ] LODs
-  - [ ] UVs
-  - [ ] Texture
-- Arsenal-P47 (marley standard issued sidearm, C96)
-  - [ ] LODs
-  - [ ] UVs
-  - [ ] Texture
 - Arsenal-P51 (marley anti titan rifle, PTRD-41)
   - [X] LODs
   - [X] UVs
   - [X] Texture
   - 2,000 Tris | 1,323 Tris | 729 Tris
+- Arsenal-P44 (marley standard issued rifle, Carcano M1891)
+  - [ ] LODs
+  - [ ] UVs
+  - [ ] Texture
+  - ??? Tris | ??? Tris | ??? Tris
+- Arsenal-P34 (marley old standard issued rifle, Gewehr 1888)
+  - [ ] LODs
+  - [ ] UVs
+  - [ ] Texture
+  - 1,153 Tris | ??? Tris | ??? Tris only lod1 model is done
+- Arsenal-P47 (marley standard issued sidearm, C96)
+  - [ ] LODs
+  - [ ] UVs
+  - [ ] Texture
+  - ??? Tris | ??? Tris | ??? Tris
 
 ## Maps
 - Forest map
