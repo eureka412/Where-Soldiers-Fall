@@ -12,12 +12,15 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
     - [ ] Move Look To
     - [ ] Run/Walk
     - [X] Change Formation
+    - [X] Stop
 - Platoon UI
   - Platoon Hotbar
     - Platoon Frame
-      - [ ] Counting Max Units/Alive Units
-      - [ ] Showing HP (alive units out of max units)
-      - [ ] Interacting
+      - [X] ECS-GameObject Bridging
+      - [X] Counting Max Units/Alive Units
+      - [X] Showing HP (alive units out of max units)
+      - [X] Interacting
+      - [X] Hiding When Platoon Disbands
 - Platoon Formations
   - [X] Column
   - [ ] Skirmish
