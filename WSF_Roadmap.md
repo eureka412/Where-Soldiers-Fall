@@ -1,4 +1,5 @@
 # WSF Roadmap
+##### Started on 2026-08-17
 
 Features that would be added to Where Soldiers Fall, everything on the list can get changed or removed
 
@@ -159,3 +160,9 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
 - Marleyan Infantry
   - [ ] Icon
   - [ ] Stats
+- Eldian Volunteers
+  - [X] Icon
+  - [X] Stats
+- Eldian Militia
+  - [ ] Icon
+  - [X] Stats
