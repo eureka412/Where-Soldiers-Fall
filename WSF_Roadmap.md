@@ -129,8 +129,8 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
   - Impact Logic
     - [ ] Spawning VFX
     - [X] Damaging Units
-    - [ ] Explosions
-    - [ ] Ricochets
+    - [X] Explosions
+    - [X] Ricochets
        
 ## Essentials
 - VFX Manager
