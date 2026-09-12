@@ -11,14 +11,20 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
   - Orders
     - [X] Move To
     - [ ] Move Look To
-    - [ ] Run/Walk
+    - [X] Run/Walk
     - [X] Change Formation
     - [X] Stop
 - Platoon UI
+    - Platoon Hover
+      - [ ] ECS-GameObject Bridging
+      - [ ] Showing Team Name
+      - [ ] Showing Team Color
+      - [ ] Showing Platoon Name
+      - [ ] Showing Alive and Max Units
   - Platoon Hotbar
     - Platoon Frame
       - [X] ECS-GameObject Bridging
-      - [X] Counting Max Units/Alive Units
+      - [X] Counting Alive/Max Units
       - [X] Showing HP (alive units out of max units)
       - [X] Interacting
       - [X] Hiding When Platoon Disbands
@@ -142,7 +148,7 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
 - Audio Manager 2.0
   - [ ] Pooling
   - [ ] Params Playing
-  - [ ] Timescale affecting
+  - [ ] Timescale Affecting
   - [ ] ECS-GameObject Bridging
   - (possibly Burst compatible)
 
