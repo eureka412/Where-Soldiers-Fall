@@ -7,10 +7,13 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
 
 - Platoon Selecting
   - [X] Click Detection
-  - [X] Multi-Select
+  - [ ] Box Selecting
+  - Multi-Select
+    - [X] Multi-Selecting
+    - [X] Multi-Select Move To/Look To With Platoon Widths Support
   - Orders
     - [X] Move To
-    - [ ] Move Look To
+    - [X] Move Look To
     - [X] Run/Walk
     - [X] Change Formation
     - [X] Stop
@@ -39,7 +42,7 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
 - Platoon Other
   - [X] Platoon Disbanding when last unit dies
   - [X] Handling dead units
-  - [ ] Calculating Platoon Width for Multi-Select stuff
+  - [X] Calculating Platoon Width for Multi-Select Stuff
   - [ ] Supporting ScriptableObjects
 - Unit Spawning
   - [X] Height Variation
@@ -123,6 +126,9 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
   - ??? Tris | ??? Tris | ??? Tris
 
 ## Maps
+- Testing Map
+  - [ ] Building
+  - [ ] Navmeshes
 - Forest map
   - [ ] Assets
   - [ ] Navmeshes
@@ -133,7 +139,7 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
   - [X] Projectile Movement
   - [X] Projectile Prefab Data reading and using
   - Impact Logic
-    - [ ] Spawning VFX
+    - [X] Spawning VFX
     - [X] Damaging Units
     - [X] Explosions
     - [X] Ricochets
@@ -141,16 +147,15 @@ Features that would be added to Where Soldiers Fall, everything on the list can 
 ## Essentials
 - VFX Manager
   - [X] Storing System
-  - [ ] ECS-GameObject Bridging
+  - [X] ECS-GameObject Bridging
   - Playing VFX
     - [X] Set Position
-    - [ ] Set Rotation
+    - [X] Set Rotation
 - Audio Manager 2.0
   - [ ] Pooling
   - [ ] Params Playing
   - [ ] Timescale Affecting
   - [ ] ECS-GameObject Bridging
-  - (possibly Burst compatible)
 
 ## VFX
 - [X] Make VFX_ArtilleryImpact
